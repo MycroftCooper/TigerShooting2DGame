@@ -1,0 +1,996 @@
+fileFormatVersion: 2
+guid: fbc5442019625e74c88d8c38a9f33571
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4073161183376366757
+    second: Firecracker_0
+  - first:
+      213: 1899937491177845667
+    second: Firecracker_1
+  - first:
+      213: 319543144097750915
+    second: Firecracker_2
+  - first:
+      213: -2123649371764976469
+    second: Firecracker_3
+  - first:
+      213: -6466148319513119040
+    second: Firecracker_4
+  - first:
+      213: 5389334352562272151
+    second: Firecracker_5
+  - first:
+      213: -2740387570307820398
+    second: Firecracker_6
+  - first:
+      213: -6524332996579618728
+    second: Firecracker_7
+  - first:
+      213: -606992428696736846
+    second: Firecracker_8
+  - first:
+      213: -5395382954757847461
+    second: Firecracker_9
+  - first:
+      213: -4714708256789087140
+    second: Firecracker_10
+  - first:
+      213: -6236120621086118209
+    second: Firecracker_11
+  - first:
+      213: -7680692092020380945
+    second: Firecracker_12
+  - first:
+      213: -4592781942435072510
+    second: Firecracker_13
+  - first:
+      213: 1389011784938456528
+    second: Firecracker_14
+  - first:
+      213: 5788100331937348131
+    second: Firecracker_15
+  - first:
+      213: 8931369231977285490
+    second: Firecracker_16
+  - first:
+      213: -8115237765554664455
+    second: Firecracker_17
+  - first:
+      213: -6565762276291289358
+    second: Firecracker_18
+  - first:
+      213: -5294728341055455769
+    second: Firecracker_19
+  - first:
+      213: -7984609017433483020
+    second: Firecracker_20
+  - first:
+      213: -1047722591550848589
+    second: Firecracker_21
+  - first:
+      213: 1694227734583922868
+    second: Firecracker_22
+  - first:
+      213: 9131212740595759003
+    second: Firecracker_23
+  - first:
+      213: -5864646013407818266
+    second: Firecracker_24
+  - first:
+      213: -4222250916780798998
+    second: Firecracker_25
+  - first:
+      213: -5567304317322483196
+    second: Firecracker_26
+  - first:
+      213: -7017040257180158543
+    second: Firecracker_27
+  - first:
+      213: -7874073010124272573
+    second: Firecracker_28
+  - first:
+      213: 2800038138689631585
+    second: Firecracker_29
+  - first:
+      213: 1021693966312998315
+    second: Firecracker_30
+  - first:
+      213: -244573505078878824
+    second: Firecracker_31
+  - first:
+      213: -8929624345671960689
+    second: Firecracker_32
+  - first:
+      213: -7348749781898922610
+    second: Firecracker_36
+  - first:
+      213: 6318283799269375604
+    second: Firecracker_43
+  - first:
+      213: -7108534967424585972
+    second: Firecracker_52
+  - first:
+      213: 243080425776619995
+    second: Firecracker_33
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Firecracker_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 343
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5321f7fb793977c0800000000000000
+      internalID: -4073161183376366757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firecracker_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 343
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a33a19f41fed5a10800000000000000
+      internalID: 1899937491177845667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firecracker_2
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 343
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f9b5aebce3f6400800000000000000
+      internalID: 319543144097750915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firecracker_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 343
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba49770e5284782e0800000000000000
+      internalID: -2123649371764976469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firecracker_4
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 343
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c67e6ecc50a346a0800000000000000
+      internalID: -6466148319513119040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firecracker_5
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 343
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797b84c2a03caca40800000000000000
+      internalID: 5389334352562272151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firecracker_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 279
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29418e4260038f9d0800000000000000
+      internalID: -2740387570307820398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firecracker_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 279
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850138ef4b9e475a0800000000000000
+      internalID: -6524332996579618728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firecracker_8
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 279
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbed222a978397f0800000000000000
+      internalID: -606992428696736846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firecracker_9
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 279
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b560672e9cfbf15b0800000000000000
+      internalID: -5395382954757847461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firecracker_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 279
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c3c7ee1ddf19eb0800000000000000
+      internalID: -4714708256789087140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firecracker_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 279
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe6ca3e559d479a0800000000000000
+      internalID: -6236120621086118209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firecracker_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 215
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea29f18c33b86590800000000000000
+      internalID: -7680692092020380945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firecracker_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 215
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206345e28292340c0800000000000000
+      internalID: -4592781942435072510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firecracker_14
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 215
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5861eebd2c64310800000000000000
+      internalID: 1389011784938456528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firecracker_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 215
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a3271d596735050800000000000000
+      internalID: 5788100331937348131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firecracker_16
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 233
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2770cddfef892fb70800000000000000
+      internalID: 8931369231977285490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firecracker_17
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 215
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb8744af32e06f80800000000000000
+      internalID: -8115237765554664455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firecracker_18
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 215
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe5ff12ff9b1e4a0800000000000000
+      internalID: -6565762276291289358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firecracker_19
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 151
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed323160a85586b0800000000000000
+      internalID: -5294728341055455769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firecracker_20
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 151
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f81f752768f03190800000000000000
+      internalID: -7984609017433483020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firecracker_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 151
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1c573aaddb571f0800000000000000
+      internalID: -1047722591550848589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firecracker_22
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 151
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b05d70f52b138710800000000000000
+      internalID: 1694227734583922868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firecracker_23
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 151
+        width: 5
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b973bbbbb9598be70800000000000000
+      internalID: 9131212740595759003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firecracker_24
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 151
+        width: 5
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed8a65e5879c9ea0800000000000000
+      internalID: -5864646013407818266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firecracker_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 87
+        width: 5
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb86b0692d8765c0800000000000000
+      internalID: -4222250916780798998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firecracker_26
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 83
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40aae716836fcb2b0800000000000000
+      internalID: -5567304317322483196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firecracker_27
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 75
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5392060177e9e90800000000000000
+      internalID: -7017040257180158543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firecracker_28
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 78
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c4d00e05ca9b290800000000000000
+      internalID: -7874073010124272573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firecracker_29
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 78
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16534261adbbbd620800000000000000
+      internalID: 2800038138689631585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firecracker_30
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 73
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba50f3bcf39cd2e00800000000000000
+      internalID: 1021693966312998315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firecracker_31
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 9
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d1d4461b91b9cf0800000000000000
+      internalID: -244573505078878824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firecracker_32
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 11
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87fa8208f9931480800000000000000
+      internalID: -8929624345671960689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firecracker_36
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 10
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e857faa320ff30a90800000000000000
+      internalID: -7348749781898922610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firecracker_43
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 14
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e7e85c3ad0fa750800000000000000
+      internalID: 6318283799269375604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firecracker_52
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 11
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fe6391c19695d90800000000000000
+      internalID: -7108534967424585972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firecracker_33
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 11
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1244efb589f5300800000000000000
+      internalID: 243080425776619995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
